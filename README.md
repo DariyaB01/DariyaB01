@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Dariya  
 
-<!--
-**DariyaB01/DariyaB01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 *Detail-oriented entry-level Data Analyst based in Budapest, Hungary.*  
+I’m passionate about transforming raw data into actionable insights using Power BI, Excel, and SQL.  
+Currently expanding my technical skills in data visualization, automation, and analytics workflows.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Featured Projects  
+- [📊 Customer Performance Dashboard](https://github.com/DariyaB01/customer-performance-dashboard) – Interactive Power BI dashboard analyzing customer demographics and revenue insights.  
+- [📈 Power BI Dashboards](https://github.com/DariyaB01/Power-BI-dashboards) – A collection of data visualization projects for business intelligence use cases.  
+- [🐍 Python Projects](https://github.com/DariyaB01/Python-projects) – Analytical and automation scripts written in Python.  
+
+---
+
+### 🛠️ Tools & Skills  
+Power BI | Excel | SQL | Python | Google Apps Script | Tableau | Looker Studio | Data Storytelling  
+
+---
+
+📍 **Location:** Budapest, Hungary  
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/dariya-baigereyeva-772820261/)  
+
+---
+
+⭐️ “Turning data into stories that drive decisions.”
