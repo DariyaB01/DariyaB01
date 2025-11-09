@@ -1,26 +1,36 @@
-# 👋 Hi, I'm Dariya  
+# 🚀 Project Portfolio  
+
+### 📊 Project 1: Customer Performance Dashboard  
+
+An interactive **Power BI dashboard** analyzing customer demographics, revenue, and behavioral insights.  
+This project demonstrates how data visualization can transform raw data into actionable business decisions.  
+
+#### 🧠 Key Insights  
+- The **31–40** age group drives the highest revenue ($80M).  
+- **Female customers** slightly outperform males in total earnings.  
+- **71%** of customers have children, led by **Australia**.  
+
+#### 🛠️ Technologies Used  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+#### 💾 Source Code  
+👉 [Visit Repo](https://github.com/DariyaB01/customer-performance-dashboard)
+
+#### 🖼 Dashboard Preview  
+<img width="891" height="497" alt="Снимок экрана 2025-11-09 в 19 15 17" src="https://github.com/user-attachments/assets/bc9bb025-1e2d-4c1d-a74e-903d9c7e9e2a" />
+<img width="893" height="502" alt="Снимок экрана 2025-11-09 в 19 14 57" src="https://github.com/user-attachments/assets/b5c2d0fe-1e2e-4d4d-a396-bd40d1123f65" />
+
+---
+
+### 👋 About Me  
 
 🎯 *Detail-oriented entry-level Data Analyst based in Budapest, Hungary.*  
-I’m passionate about transforming raw data into actionable insights using Power BI, Excel, and SQL.  
-Currently expanding my technical skills in data visualization, automation, and analytics workflows.  
-
----
-
-### 💡 Featured Projects  
-- [📊 Customer Performance Dashboard](https://github.com/DariyaB01/customer-performance-dashboard) – Interactive Power BI dashboard analyzing customer demographics and revenue insights.  
-- [📈 Power BI Dashboards](https://github.com/DariyaB01/Power-BI-dashboards) – A collection of data visualization projects for business intelligence use cases.  
-- [🐍 Python Projects](https://github.com/DariyaB01/Python-projects) – Analytical and automation scripts written in Python.  
-
----
-
-### 🛠️ Tools & Skills  
-Power BI | Excel | SQL | Python | Google Apps Script | Tableau | Looker Studio | Data Storytelling  
-
----
+I’m passionate about transforming raw data into insights using Power BI, SQL, and Excel.  
+Currently expanding my skills in automation and data storytelling.
 
 📍 **Location:** Budapest, Hungary  
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/dariya-baigereyeva-772820261/)  
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/dariya-baigereyeva-772820261/)
 
----
-
-⭐️ “Turning data into stories that drive decisions.”
