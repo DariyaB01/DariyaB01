@@ -25,9 +25,9 @@ This project demonstrates how data visualization can transform raw data into act
 
 ---
 
-### 👋 About Me  
+### About Me  
 
-🎯 *Detail-oriented entry-level Data Analyst based in Budapest, Hungary.*  
+*Detail-oriented entry-level Data Analyst based in Budapest, Hungary.*  
 I’m passionate about transforming raw data into insights using Power BI, SQL, and Excel.  
 Currently expanding my skills in automation and data storytelling.
 
