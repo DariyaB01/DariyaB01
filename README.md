@@ -1,3 +1,13 @@
+### About Me  
+Data Analyst | Product Analytics | Dashboard Development | A/B Testing | Python & BI
+
+I analyze product, user and business data and translate it into clear insights and dashboards.  
+Experienced with Power BI, SQL, Python, API integration, and analytics for digital products.
+
+**Location:** Budapest, Hungary  
+**Connect:** [LinkedIn](https://www.linkedin.com/in/dariya-baigereyeva-772820261/)
+
+
 # Project Portfolio  
 
 ### Project 1: Customer Performance Dashboard  
@@ -25,12 +35,5 @@ This project demonstrates how data visualization can transform raw data into act
 
 ---
 
-### About Me  
 
-*Detail-oriented entry-level Data Analyst based in Budapest, Hungary.*  
-I’m passionate about transforming raw data into insights using Power BI, SQL, and Excel.  
-Currently expanding my skills in automation and data storytelling.
-
-**Location:** Budapest, Hungary  
-**Connect:** [LinkedIn](https://www.linkedin.com/in/dariya-baigereyeva-772820261/)
 
