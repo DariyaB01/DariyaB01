@@ -35,5 +35,35 @@ This project demonstrates how data visualization can transform raw data into act
 
 ---
 
+### Project 2: A/B Testing — P2P Banner Conversion Experiment
+
+A full A/B test validation analyzing whether introducing a promotional banner increases conversion to P2P money transfers.
+
+The analysis includes:
+- Pre-test homogeneity validation  
+- Statistical testing (z-test, significance validation, confidence intervals)  
+- Conversion lift calculation  
+- Segment analysis and customer personas  
+- Actionable product recommendations  
+
+**Key Insights**
+- Test group (banner) showed a higher conversion rate than control.  
+- Statistical significance confirmed with 95% confidence.  
+- Most responsive segments: high-activity users and frequent P2P senders.  
+- New users showed lower sensitivity to the banner.
+
+**Technologies Used**
+
+`Python` `Pandas` `NumPy` `SciPy` `A/B Testing` `Statistics`
+
+**Source Code**  
+[Visit Repo](https://github.com/DariyaB01/Python-projects/blob/main/Baigereyeva_Dariya_P3%20AB%20testing.ipynb)
+
+**Presentation**  
+[Download PDF](https://github.com/user-attachments/files/23547029/conversion.and.banner.project.pdf)
+
+
+
+
 
 
