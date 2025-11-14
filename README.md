@@ -54,13 +54,22 @@ The analysis includes:
 
 **Technologies Used**
 
-`Python` `Pandas` `NumPy` `SciPy` `A/B Testing` `Statistics`
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+<img src="https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/A%2FB_Testing-6E4EAF?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
 
 **Source Code**  
 [Visit Repo](https://github.com/DariyaB01/Python-projects/blob/main/Baigereyeva_Dariya_P3%20AB%20testing.ipynb)
 
 **Presentation**  
 [Download PDF](https://github.com/user-attachments/files/23547029/conversion.and.banner.project.pdf)
+<img width="671" height="354" alt="Снимок экрана 2025-11-14 в 13 26 32" src="https://github.com/user-attachments/assets/661188eb-8055-4d6f-9ee5-684c5c1f313c" />
+<img width="694" height="384" alt="Снимок экрана 2025-11-14 в 13 26 46" src="https://github.com/user-attachments/assets/14798b33-4016-484d-8a58-179b9b26217f" />
+
 
 
 
