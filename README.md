@@ -7,10 +7,30 @@ Experienced with Power BI, SQL, Python, API integration, and analytics for digit
 **Location:** Budapest, Hungary  
 **Connect:** [LinkedIn](https://www.linkedin.com/in/dariya-baigereyeva-772820261/)
 
-
 # Project Portfolio  
 
-### Project 1: Customer Performance Dashboard  
+## Project : NLP Sentiment Analysis API
+A production-style **NLP sentiment analysis API** built with FastAPI and a pre-trained DistilBERT model from Hugging Face.  
+This project demonstrates how to build, containerize, and deploy an NLP model using modern tools.
+
+**Source Code:** [nlp-sentiment-api](https://github.com/DariyaB01/nlp-sentiment-api)
+
+#### Key Features
+- Binary sentiment classification (`POSITIVE` / `NEGATIVE`)
+- REST API built with **FastAPI**
+- HuggingFace **Transformers** model inference
+- Dockerized for deployment
+- Kubernetes (Minikube) manifests for orchestration
+
+#### 🧠 Technologies Used
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+----
+### Project: Customer Performance Dashboard  
 
 An interactive **Power BI dashboard** analyzing customer demographics, revenue, and behavioral insights.  
 This project demonstrates how data visualization can transform raw data into actionable business decisions.  
@@ -35,7 +55,7 @@ This project demonstrates how data visualization can transform raw data into act
 
 ---
 
-### Project 2: A/B Testing — P2P Banner Conversion Experiment
+### Project : A/B Testing — P2P Banner Conversion Experiment
 
 A full A/B test validation analyzing whether introducing a promotional banner increases conversion to P2P money transfers.
 
@@ -69,6 +89,8 @@ The analysis includes:
 [Download PDF](https://github.com/user-attachments/files/23547029/conversion.and.banner.project.pdf)
 <img width="671" height="354" alt="Снимок экрана 2025-11-14 в 13 26 32" src="https://github.com/user-attachments/assets/661188eb-8055-4d6f-9ee5-684c5c1f313c" />
 <img width="694" height="384" alt="Снимок экрана 2025-11-14 в 13 26 46" src="https://github.com/user-attachments/assets/14798b33-4016-484d-8a58-179b9b26217f" />
+
+---
 
 # NLP project 
 # Sentiment Analysis on IMDb Reviews (NLP Project with BERT)
