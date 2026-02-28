@@ -22,7 +22,7 @@ This project demonstrates how to build, containerize, and deploy an NLP model us
 - Dockerized for deployment
 - Kubernetes (Minikube) manifests for orchestration
 
-#### 🧠 Technologies Used
+####  Technologies Used
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -47,7 +47,7 @@ This project demonstrates how data visualization can transform raw data into act
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 #### Source Code  
-👉 [Visit Repo](https://github.com/DariyaB01/customer-performance-dashboard)
+ [Visit Repo](https://github.com/DariyaB01/customer-performance-dashboard)
 
 #### Dashboard Preview  
 <img width="891" height="497" alt="Снимок экрана 2025-11-09 в 19 15 17" src="https://github.com/user-attachments/assets/bc9bb025-1e2d-4c1d-a74e-903d9c7e9e2a" />
