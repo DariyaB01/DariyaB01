@@ -153,12 +153,37 @@ Compared predictions with true labels.
 
 <img width="378" height="446" alt="Снимок экрана 2025-11-16 в 22 00 48" src="https://github.com/user-attachments/assets/b29ae9b7-d588-424b-a53a-fa8b392c8eed" />
 
+## Reproducibility
+
+Random seed: 42  
+Train/Validation split: 80/20 (stratified)  
 
 
+---
+
+## Project : Disneyland Review Sentiment Classification (TF-IDF + PyTorch ANN)
+
+A research-oriented NLP project comparing Logistic Regression and a shallow PyTorch ANN on TF-IDF features for sentiment classification.
+
+Source Code: [disneyland_sentiment_classification](https://github.com/DariyaB01/disneyland_sentiment_classification)
+
+### Key Highlights
+
+- Binary sentiment classification (NEGATIVE / POSITIVE)
+- TF-IDF feature engineering (10,000 features, 1–2 ngrams)
+- Logistic Regression baseline vs PyTorch ANN
+- Class imbalance handling (~83% positive)
+- Quantitative evaluation (Macro F1, Confusion Matrix)
+- Overfitting analysis
+
+### Technologies Used
+
+`Python` `PyTorch` `Scikit-learn` `HuggingFace Datasets`
 
 
+## Training Curve
 
-
+<img width="485" height="352" alt="Снимок экрана 2026-02-28 в 17 31 06" src="https://github.com/user-attachments/assets/30d646dd-04e9-497d-8b21-3a4897761ba1" />
 
 
 
