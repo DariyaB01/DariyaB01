@@ -9,8 +9,6 @@ Experienced with Power BI, SQL, Python, API integration, and analytics for digit
 
 # Project Portfolio  
 
-## Project : NLP Sentiment Analysis API
-# NLP project 
 # Sentiment Analysis on IMDb Reviews (NLP Project with BERT)
 
 This project demonstrates a complete NLP (Natural Language Processing) workflow using a transformer-based model (DistilBERT) to classify the sentiment of movie reviews from the IMDb dataset.  
